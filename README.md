@@ -1,4 +1,5 @@
--🍀Hi, I'm from PCCOE & this is the README for my first assignment.
+-🍀Hi, I'm Pallavi kadam
+-Student of CS at PCCOE.
 
 <!---
 Pallavik24/Pallavik24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
