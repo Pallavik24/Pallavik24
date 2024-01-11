@@ -1,5 +1,5 @@
 -🍀Hi, I'm Pallavi kadam
--Student of CS at PCCOE
+-Student of Computer Engineering at PCCOE
 
 
 
